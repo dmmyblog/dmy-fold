@@ -1,8 +1,10 @@
 # 🧩 大绵羊折叠框：专为 Gutenberg 打造的内容折叠区块
 
 **大绵羊折叠框**是一款轻量、灵活、可自定义的 Gutenberg 区块插件，专注于改善 WordPress 长篇内容的展示方式。无论是 FAQ、产品介绍、教程说明，还是活动细则展示，它都能提供简洁、优雅的折叠结构。
-**详细介绍**：[大绵羊折叠框插件(开源)]([https://dmyblog.cn](https://dmyblog.cn/2328.html))
 ---
+
+**详细介绍**：[大绵羊折叠框插件(开源)]([https://dmyblog.cn](https://dmyblog.cn/2328.html))
+
 
 ## ✨ 核心特性
 
